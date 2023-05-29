@@ -1,2 +1,7 @@
-Predicting Global Game Sales using Linear Regression Model
+* Problem Definition
+Predicting Global Game Sales 
+
+* Data
 The data was downloaded from Kaggle(https://www.kaggle.com/datasets/gregorut/videogamesales)
+
+*
